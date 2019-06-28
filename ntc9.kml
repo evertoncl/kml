@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!-- Data derived from:
+       Ed Knittel - || tastypopsicle.com
+       Feel free to use this file for your own purposes.
+       Just leave the comments and credits when doing so.
+-->
+  <Document>
+    <name>Colider NTCFibra</name>
+    <description>Mapa de cobertura NTCFibra</description>
+
+    <Style id="blueLineAv">
+      <LineStyle>
+        <color>6fff5500</color>
+        <width>14</width>
+      </LineStyle>
+    </Style>
+    <Style id="blueLineR">
+      <LineStyle>
+        <color>6fff5500</color>
+        <width>10</width>
+      </LineStyle>
+    </Style>
+   
+
+    <Placemark>
+      <name>tancredo</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+          -55.449530,-10.822469,322
+          -55.45885026,-10.8072453,322
+          
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>tancredo2</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.46002507,-10.80535889,321
+ 	-55.46567916870117,-10.796116385944497,317
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  <Placemark>
+      <name>marexau</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+         -55.45779884,-10.80700291,321
+	-55.45006335,-10.81973321,323
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>xingu</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+         -55.45672596,-10.80685537,318
+	-55.44900119,-10.81955406,322
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>coxipo</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.45549214,-10.80713991,315
+	-55.450213,-10.815760,318
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>cuiaba</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.45959055,-10.80807784,317
+	-55.45877516,-10.80737176,322
+	-55.45780957,-10.80698183,321
+	-55.45672596,-10.80685537,318
+	-55.45548141,-10.80713991,315
+	-55.45438707,-10.80766684,312
+	-55.45341074,-10.80883661,310
+	-55.4506856,-10.8133049,316
+	-55.449457,-10.815284,316
+        </coordinates>
+      </LineString>
+    </Placemark>
+ <Placemark>
+      <name>daury</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.456854,-10.801236,311
+	-55.44903338,-10.81420065,311
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>daury2</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.4581636,-10.7993097,311	
+	-55.463533,-10.790293,311
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>dutra1</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+         -55.4581744,-10.8104174,317
+	-55.45567453,-10.81447465,323
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>dutra2</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45407593,-10.8171619,323
+	-55.45246661,-10.81981752,324
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>dutra3</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.451801,-10.820752,323
+        -55.450391,-10.823012,324
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>ra</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.44991851,-10.81113399,307	
+	-55.449540,-10.811736,308
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>rb</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.44910848,-10.81063869,307
+	-55.44677228,-10.81449573,312
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>armezindo</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.451744,-10.808589,307
+	-55.450383,-10.810535,312
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>bandeirantes</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.456264,-10.804120,307
+	-55.457367,-10.802333,312
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>ipanema</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.457026,-10.802844,307
+	-55.456282,-10.802406,312
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>rc</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.4484728,-10.81022769,309
+	-55.44606954,-10.81411108,316
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>rd</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.44780225,-10.80982196,312
+	-55.44539899,-10.8137317,319
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>re</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.44716388,-10.80940042,313
+	-55.44554383,-10.81203503,319
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>rf</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.44646114,-10.80903157,314
+	-55.44573694,-10.81033307,317
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Rua Argentina</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.44573694,-10.81033307,317
+	-55.44513613,-10.8145168,319
+	-55.444465,-10.818391,315
+	-55.444450,-10.818497,315
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Rua Alemanha</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.445129,-10.814517,320
+	-55.443485,-10.814143,320
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Rua Franca</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.444990,-10.815188,320
+	-55.443228,-10.814785,320
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Rua Holanda</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.445580,-10.815994,320
+	-55.443509,-10.815554,320
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Rua Italia</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.445553,-10.816632,320
+	-55.443447,-10.816265,320	
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Rua Austria</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.444654,-10.817161,320
+	-55.442468,-10.816713,320
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Rua Portugal</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.444523,-10.817854,320
+	-55.442363,-10.817286,320
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Ivo Carnelos</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.444430,-10.818495,320
+	-55.442201,-10.817918,320
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>Rua Alemanha2</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.443590,-10.814917,320
+	-55.443068,-10.818140,320
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>perimetral</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.44595689,-10.80674998,307
+	-55.44213206,-10.81657176,322
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>prefeitura</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45767009,-10.80369378,314
+	-55.45640409,-10.80586474,317
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>princesa</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>	
+        
+	-55.46094239,-10.80188113,317
+	-55.46184897,-10.80046893,315
+	-55.462925,-10.798731,317
+
+	
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>machado</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	
+	-55.46005189,-10.80155443,314
+	-55.46109259,-10.79984715,313
+	-55.462054,-10.798226,314
+	
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>ipiranga</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.45851499,-10.80063756,311
+	-55.45863301,-10.80034247,310
+	-55.45953959,-10.79884596,310
+	-55.460449,-10.797345,309
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>castro</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	
+	-55.45922846,-10.80113815,312
+	-55.46033084,-10.79936236,311
+	-55.461245,-10.797818,310
+
+	
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>abbr1</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>        
+        <coordinates>
+	-55.46144396,-10.79373458,310
+	-55.45754671096802,-10.791473949164985,305
+	
+       </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>armezindo novo horizonte</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.46083778,-10.79344475,308
+	-55.46057492,-10.79386631,309
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>anapolis novo horizonte</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.46034962,-10.79314439,308
+	-55.46007603,-10.79358703,308
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>abbt3</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.45957714,-10.79330775,307
+	-55.46154320240021,-10.78994050650651,308
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>abbt4</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.45909971,-10.79302846,305
+	-55.46006262302399,-10.791442331869563,307
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>meridional</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.458619594573975,-10.792764985887656,305
+	-55.46043276786804,-10.789724453819435,307
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>abbt6</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.45845866203308,-10.791906051869143,305
+	-55.459097027778625,-10.790862680864116,307
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>abbt7</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.45801341533661,-10.791647844230368,305
+	-55.45900583267212,-10.79002481970812,307
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>abbt8</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.457391142845154,-10.791700539684859,305
+	-55.45823335647583,-10.790325185296702,307
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>abbr2</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>        
+        <coordinates>
+	-55.46051323413849,-10.791610957406723,310
+	-55.45828431844711,-10.790319915727562,305	
+       </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>abbr3</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>        
+        <coordinates>
+	-55.46078950166702,-10.791120889177321,310
+	-55.459019243717194,-10.790088054593822,305	
+       </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>gerino</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>        
+        <coordinates>
+	-55.46269655227661,-10.791647844230368,310
+	-55.46048641204834,-10.79028829831076,305	
+       </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>constelacao</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>        
+        <coordinates>
+	-55.46277970075607,-10.790651898403196,310
+	-55.45907020568848,-10.790006376197294,305	
+       </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>armezindo novo horizonte2</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.46173095703125,-10.791906051869143,308
+	-55.46243369579315,-10.790672976655943,309
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>anapolis novo horizonte2</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.46124279499054,-10.791568801031303,308
+	-55.46180069446564,-10.790562315812553,308
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>amazonas</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.46226203,-10.80171251,316
+	-55.45821726,-10.79930967,308	
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+<Placemark>
+      <name>costa</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45876443,-10.80581205,321
+	-55.4555136,-10.80385186,310
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>deodoro</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45873225,-10.80614928,323
+	-55.45673668,-10.8059069,318
+	-55.455181,-10.8061809,312
+	-55.45340002,-10.80735068,309
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>morumbi</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45675814,-10.80591744,319
+	-55.45674741,-10.80682375,318
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>tapirapes</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45760572,-10.80910007,318
+	-55.45481622,-10.80743499,312
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>osasco</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45470625,-10.80734014,312
+	-55.45425564,-10.80673944,311
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>governador</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.46084583,-10.81314682,305
+	-55.45268118,-10.80835184,307
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>nhambikura</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45740187,-10.81333651,319
+	-55.45118988,-10.80960592,306
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>colonizador</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.45561016,-10.81439034,323
+	-55.44586837,-10.80857315,311
+	
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>caiapos1</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+       -55.45386136,-10.81521233,323
+	-55.44919431,-10.81241968,323	
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>caiapos2</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+       -55.44829309,-10.81187168,308
+	-55.44582546,-10.81038577,317
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>caiabis1</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+       -55.45396864,-10.8170776,323
+	-55.45069635,-10.81517018,318
+	-55.44830382,-10.81373697,308
+	-55.44553578,-10.81206137,319
+	-55.44466674,-10.8118506,320
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+<Placemark>
+      <name>apiacas</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+       -55.45403302,-10.81892178,324
+	-55.45069635,-10.81691952,321
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>tvmaringa</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	
+       -55.451048,-10.821990,324
+	-55.449582,-10.821138,321
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>bandeirantes</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	 -55.449788,-10.818145,324
+	-55.452378,-10.819681,319
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>blf</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+       -55.44666231,-10.81450626,313
+	-55.4453963,-10.81374751,319
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>teles</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+       -55.4590219,-10.8108073,324
+	-55.4579437,-10.8126815,321
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>borba</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.4598427,-10.8112904,324
+	-55.4586947,-10.8131452,313
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>arinos</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        -55.4605186,-10.812007,324
+	-55.4595423,-10.8135456,313
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>praca</name>
+      <styleUrl>#blueLineR</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.459283,-10.805496,311
+	-55.460122,-10.805140,311
+	-55.460265,-10.806620,311
+	-55.458986,-10.807205,311
+        </coordinates>
+      </LineString>
+    </Placemark>
+<Placemark>
+      <name>blf</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.460292,-10.806635,311
+	-55.461982,-10.807655,311
+        </coordinates>
+      </LineString>
+    </Placemark>
+	<Placemark>
+      <name>goias</name>
+      <styleUrl>#blueLineAv</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	-55.463144,-10.800007,311
+	-55.459195,-10.797640,311
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
